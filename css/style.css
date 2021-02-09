@@ -1,0 +1,149 @@
+header{
+	background-color: #fff;
+	color: #000;
+	padding: 20px 0;
+	text-align: center;
+	font-weight: bold;
+}
+
+#hero{
+	background-color: #09090d;
+	
+}
+
+#hero h5{
+	color: #EDB44D;
+	padding: 3%
+}
+
+#hero h2{
+	color: #fff;
+	font-weight: bold;
+	font-size: 60px;
+	padding: 5px;
+}
+
+#hero p{
+	color: #525151;
+	padding: 3%;
+}
+#hero a{
+	background-color: #525151;
+	color: #fff;
+}
+
+#features{
+	background-color: #101117;
+	color: #fff;
+	padding: 4%;
+}
+
+#features h2{
+	font-weight: bold;
+	font-size: 55px;
+}
+
+#features .row{
+	padding: 5%;
+}
+
+#features p{
+	font-size: 14px;
+}
+#get{
+	background-color:  #121520;
+	color: #fff;
+	padding: 5%;
+}
+
+#get h5{
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#get p{
+	font-size: 12px;
+}
+
+#get i{
+	color: #EDB44D;
+}
+
+#fea2{
+	background-color: #000;
+	color: #fff;
+	padding: 5%;
+}
+
+#fea2 h2{
+	padding: 4%;
+	font-size: 45px
+}
+
+#fea2 h3{
+	color: #EDB44D;
+	font-size: 45px;
+}
+
+#fea2 i{
+	color: #EDB44D;
+	text-align: center;
+}
+
+#redes{
+	background-color: #151721;
+	padding: 3%;
+}
+#redes h2{
+	color: #fff;
+	font-size: 45px;
+}
+#redes h5{
+	color: #EDB44D;
+	padding: 1%;
+}
+
+#testimonials{
+	background-color: #313030;
+	color: #fff;
+	padding: 3%;
+}
+#testimonials h2{
+	font-size: 35px
+}
+
+#testimonials .img-fluid{
+	margin-left: 46%;
+	padding-bottom: 1%
+}
+#testimonials h6{
+	font-size: 14px;
+	padding: 5%;
+}
+
+#down{
+	background-color: #000;
+	padding: 4%;
+	color: #fff;
+}
+
+#down .btn-primary{
+	background-color: #000;
+	color: #fff;
+	margin-left: 20%;
+	margin-bottom: 12%
+}
+#footer{
+	background-color: #000;
+	color: #726F6F;
+	padding: 2%;
+}
+
+#footer h4{
+	font-size: 14px;
+}
+
+#footer h5{
+	font-size: 10px;
+}
+
